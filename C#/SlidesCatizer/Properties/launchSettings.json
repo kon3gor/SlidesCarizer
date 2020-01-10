@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "SlidesCatizer": {
+      "commandName": "Project",
+      "commandLineArgs": "F:\\Stuf\\C#\\SlidesCatizer\\SlidesCatizer\\strings.json"
+    }
+  }
+}
