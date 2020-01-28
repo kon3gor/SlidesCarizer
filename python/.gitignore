@@ -2,5 +2,5 @@ test.py
 credentials.json
 server_config.py
 token.pickle
-/__pycache__/
+__pycache__/
 
