@@ -1,0 +1,75 @@
+#card {
+  background: #fffef6;
+  margin-top: 200px;
+  margin-left: 300px;
+  margin-right: 300px;
+  height: 500px;
+  text-align: center;
+  border-radius: 10px;
+  box-shadow: 10px 10px 5px #979498;
+}
+
+
+.inputfield{
+  background:  transparent;
+  border: 1px  solid;
+  border-radius: 5px;
+  width: 400px;
+  height: 50px;
+  border-color: #82578c;
+  padding: 5px;
+  margin-top: 50px;
+  overflow: hidden;
+  text-decoration-color: #82578c;
+  margin-right: 200px;
+}
+
+.presentationLink{
+  padding-top: 50px;
+  font-size: 20px;
+  font-family: monospace;
+  color: #82578c;
+  float: left;
+  padding-left: 200px;
+}
+
+.header{
+  padding-top: 50px;
+  font-size: 45px;
+  font-family: monospace;
+  color: #82578c;
+}
+
+.buttons{
+  padding-top: 50px;
+}
+#catize{
+  float: center ;
+  background-color:  #82578c;
+  width: 200px;
+  height: 30px;
+  border-radius: 10px;
+  border: none;
+  font-family: monospace;
+  font-size: 30;
+  color: #ffff;
+  box-shadow: 5px 5px 5px #979498
+}
+
+.pp{
+  margin: 20px 20px;
+}
+
+html {
+  height: 100%;
+  overflow: hidden;
+}
+
+body {
+  height: 100%;
+  margin: 0;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background: rgb(196,165,203);
+  background: linear-gradient(0deg, rgba(196,165,203,1) 0%, rgba(45,233,253,1) 100%);
+}
